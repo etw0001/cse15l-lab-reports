@@ -10,7 +10,7 @@
 
 **Remotely Connecting**
 
-* Open a new text file `(Ctrl+N)` and open a new terminal `(Ctrl+Shift+`)`.
+* Open a new text file (Ctrl+N) and open a new terminal (Ctrl+Shift+`).
 * To use ssh, type in the following command in the terminal: `cs15lwi23xxx@ieng6.ucsd.edu`. Replace `xxx` with your own course-specific account letters.
 * If it is your first time connecting to the server, you may get a message asking if you would like to continue. Type `yes` and press `enter`. You will then be prompted for your password.
 * Type in your password and press `enter`. Your terminal should look like this upon successful connection:
