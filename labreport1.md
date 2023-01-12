@@ -19,4 +19,8 @@
 
 **Trying Some Commands**
 
-* 
+* Try using some different commands such as `pwd`, `ls`, and `cat`.
+* Below is an example of these commands being used in the terminal.
+
+![image](https://user-images.githubusercontent.com/122562296/212203249-58995840-9b13-4a0f-b00d-62e0b29aa6bc.png)
+
