@@ -13,7 +13,7 @@
 * Open a new text file (Ctrl+N) and open a new terminal (Ctrl+Shift+`).
 * To use ssh, type in the following command in the terminal:
 * ```
-* `ssh cs15lwi23xxx@ieng6.ucsd.edu`
+* ssh cs15lwi23xxx@ieng6.ucsd.edu
 * ```
 * Replace `xxx` with your own course-specific account letters.
 * If it is your first time connecting to the server, you may get a message asking if you would like to continue. Type `yes` and press `enter`. You will then be prompted for your password.
