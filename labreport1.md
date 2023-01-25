@@ -4,7 +4,7 @@
 **Installing VScode**
 
 * Visit [VSCode](https://code.visualstudio.com/Download).
-* On this page, you will see many available versions for different operating systems. Be sure to install the correct one corresponding to your computer's specific operating system.
+* On this page, you will see many available versions for different operating systems. Install the correct version corresponding to your computer's specific operating system.
 * After installation, click on the donwloaded file and open VSCode. You should see the window below.
 
 ![image](https://user-images.githubusercontent.com/122562296/212161867-81949d7b-29f3-4585-8811-52f8fa11edc6.png)
