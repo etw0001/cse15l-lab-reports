@@ -28,7 +28,7 @@ ssh cs15lwi23xxx@ieng6.ucsd.edu
 * Try using some different commands such as `pwd`, `ls`, and `cat`.
 * `pwd` displays the current working directory
 * `ls <path>` lists all files and folders in the current directory
-* `cat <path>` prints the contents of a file
+* `cat <path>` prints the contents of the specified file
 * Below is an example of these commands being used in the terminal.
 
 ![image](https://user-images.githubusercontent.com/122562296/212203249-58995840-9b13-4a0f-b00d-62e0b29aa6bc.png)
