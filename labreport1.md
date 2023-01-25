@@ -3,7 +3,7 @@
 
 **Installing VScode**
 
-* Visit [VSCode](https://code.visualstudio.com/Download) and follow the instructions for downloading.
+* Visit [VSCode](https://code.visualstudio.com/Download).
 * After installing, you should see the window below.
 
 ![image](https://user-images.githubusercontent.com/122562296/212161867-81949d7b-29f3-4585-8811-52f8fa11edc6.png)
