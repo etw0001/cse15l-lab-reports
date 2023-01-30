@@ -3,5 +3,4 @@
 
 **Part 1**
 
-*<img width="740" alt="image" src="https://user-images.githubusercontent.com/122562296/215363581-1e020296-6be3-4e89-9cd6-9d22d8bb050e.png">
-
+![image]<img width="740" alt="image" src="https://user-images.githubusercontent.com/122562296/215363739-993e6d2a-2b3e-4aef-a5a7-61336adc0a97.png">
