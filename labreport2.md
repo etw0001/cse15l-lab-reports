@@ -51,6 +51,7 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
 ![image](https://user-images.githubusercontent.com/122562296/215377849-a8c1d2f4-d4ec-4b57-91b0-35b8413abd5d.png)
 
 * Shown below is the code before and after fixing the bug, respectively:
+Before:
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -58,6 +59,7 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
     }
   }
 ```
+After:
 ```
   static void reverseInPlace(int[] arr) {
     int[] tempArr = new int[arr.length];
