@@ -47,11 +47,11 @@ Below is an example of an input that doesn't induce failure:
 ```
 
 Below are the symptoms of running the tests shown above:
+
 ![image](https://user-images.githubusercontent.com/122562296/215377731-ea4bfc24-9899-4702-90d9-06f8ce014e46.png)
 ![image](https://user-images.githubusercontent.com/122562296/215377849-a8c1d2f4-d4ec-4b57-91b0-35b8413abd5d.png)
 
 Shown below is the code before and after fixing the bug:
-
 Before:
 ```
   static void reverseInPlace(int[] arr) {
