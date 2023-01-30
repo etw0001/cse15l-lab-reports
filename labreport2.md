@@ -28,7 +28,7 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
 * Below is an example of an input that induces failure:
 ```
   @Test
-  public void testReverseInPlace2() {
+  public void testReverseInPlace() {
     int[] input1 = {1, 2, 3};
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{3, 2, 1}, input1);
@@ -45,7 +45,7 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
   }
 ```
 
-* Below are the symptoms of running the above tests, respectively:
+* Below are the symptoms of running the above tests:
 ![image](https://user-images.githubusercontent.com/122562296/215377253-32e1f57c-7014-4b03-8f4c-d88bf61831ac.png)
 ![image](https://user-images.githubusercontent.com/122562296/215377441-47121784-f3c1-4cd1-b135-bf75c1dc0235.png)
 
