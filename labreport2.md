@@ -27,11 +27,11 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
 
 * Below is an example of a failure-inducing input:
 ```
-@Test
- public void testReverseInPlace2() {
-  int[] input1 = {3, 2, 3};
-  ArrayExamples.reverseInPlace(input1);
-  assertArrayEquals(new int[]{3, 2, 3}, input1);
+  @Test
+  public void testReverseInPlace2() {
+    int[] input1 = {3, 2, 3};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{3, 2, 3}, input1);
   }
 ```
 
