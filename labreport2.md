@@ -46,8 +46,6 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
 ```
 
 * Below are the symptoms of running the above tests:
-![image](https://user-images.githubusercontent.com/122562296/215377253-32e1f57c-7014-4b03-8f4c-d88bf61831ac.png)
-![image](https://user-images.githubusercontent.com/122562296/215377441-47121784-f3c1-4cd1-b135-bf75c1dc0235.png)
-
-
+![image](https://user-images.githubusercontent.com/122562296/215377731-ea4bfc24-9899-4702-90d9-06f8ce014e46.png)
+![image](https://user-images.githubusercontent.com/122562296/215377849-a8c1d2f4-d4ec-4b57-91b0-35b8413abd5d.png)
 
