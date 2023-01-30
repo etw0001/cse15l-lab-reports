@@ -2,6 +2,7 @@
 -
 
 **Part 1**
+-
 
 Below is the code for my `StringServer`:
 
@@ -22,6 +23,7 @@ Second iteration of `/add-message`:
 * The argument passed into `handleRequest` is `url`, an object of type `URI`. `str` is the string in which the value after the equals sign in the URL (CSE15L) will be concatenated to in a new line.
 
 **Part 2**
+-
 
 The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both did and didn't induce failure.
 
