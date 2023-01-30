@@ -26,7 +26,7 @@ Second iteration of `/add-message`:
 
 The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both did and didn't induce failure.
 
-* Below is an example of an input that induces failure:
+Below is an example of an input that induces failure:
 ```
   @Test
   public void testReverseInPlace() {
@@ -36,7 +36,7 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
   }
 ```
 
-* Below is an example of an input that doesn't induce failure:
+Below is an example of an input that doesn't induce failure:
 ```
   @Test
   public void testReverseInPlace2() {
@@ -46,12 +46,12 @@ The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both d
   }
 ```
 
-* Below are the symptoms of running the tests shown above:
+Below are the symptoms of running the tests shown above:
 
 ![image](https://user-images.githubusercontent.com/122562296/215377731-ea4bfc24-9899-4702-90d9-06f8ce014e46.png)
 ![image](https://user-images.githubusercontent.com/122562296/215377849-a8c1d2f4-d4ec-4b57-91b0-35b8413abd5d.png)
 
-* Shown below is the code before and after fixing the bug, respectively:
+Shown below is the code before and after fixing the bug, respectively:
 
 Before:
 ```
