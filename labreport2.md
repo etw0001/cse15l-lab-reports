@@ -71,3 +71,5 @@ After:
       arr[i] = tempArr[i];
   }
 ```
+
+* The fix adds a temporary array for the elements to be copied onto so that they can all be properly transferred.
