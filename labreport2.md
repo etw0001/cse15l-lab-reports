@@ -25,7 +25,17 @@ Second iteration of `/add-message`:
 
 The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both did and didn't induce failure.
 
-* Below is an example of a failure-inducing input:
+* Below is an example of an input that induces failure:
+```
+  @Test
+  public void testReverseInPlace2() {
+    int[] input1 = {1, 2, 3};
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{3, 2, 1}, input1);
+  }
+```
+
+* Below is an example of an input that doesn't induce failure:
 ```
   @Test
   public void testReverseInPlace2() {
