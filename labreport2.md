@@ -3,18 +3,18 @@
 **Part 1**
 -
 
-Below is the code for my `StringServer`:
+**Below is the code for my `StringServer`:**
 
 ![image](https://user-images.githubusercontent.com/122562296/215363739-993e6d2a-2b3e-4aef-a5a7-61336adc0a97.png)
 
-First iteration of `/add-message`:
+**First iteration of `/add-message`:**
 
 ![image](https://user-images.githubusercontent.com/122562296/215364827-fc7270fb-099d-4403-abd0-571e1153b0ea.png)
 
 * In the first iteration of `/add-message` (shown above), the method `handleRequest` is called.
 * The argument passed into `handleRequest` is `url`, an object of type `URI`. `str` is the string in which the value after the equals sign in the URL (Ethan) will be concatenated to in a new line.
 
-Second iteration of `/add-message`:
+**Second iteration of `/add-message`:**
 
 ![image](https://user-images.githubusercontent.com/122562296/215364860-5a4375f6-9400-468c-9a9a-33b45f7f781e.png)
 
@@ -24,9 +24,9 @@ Second iteration of `/add-message`:
 **Part 2**
 -
 
-The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both did and didn't induce failure.
+**The buggy `reverseInPlace` method in `ArrayExamples.java` had inputs that both did and didn't induce failure.**
 
-Below is an example of an input that induces failure:
+**Below is an example of an input that induces failure:**
 ```
   @Test
   public void testReverseInPlace() {
@@ -36,7 +36,7 @@ Below is an example of an input that induces failure:
   }
 ```
 
-Below is an example of an input that doesn't induce failure:
+**Below is an example of an input that doesn't induce failure:**
 ```
   @Test
   public void testReverseInPlace2() {
@@ -46,14 +46,14 @@ Below is an example of an input that doesn't induce failure:
   }
 ```
 
-Below are the symptoms of running the tests shown above:
+**Below are the symptoms of running the tests shown above:**
 
 ![image](https://user-images.githubusercontent.com/122562296/215377731-ea4bfc24-9899-4702-90d9-06f8ce014e46.png)
 ![image](https://user-images.githubusercontent.com/122562296/215377849-a8c1d2f4-d4ec-4b57-91b0-35b8413abd5d.png)
 
-Shown below is the code before and after fixing the bug:
+**Shown below is the code before and after fixing the bug:**
 
-Before:
+**Before:**
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -61,7 +61,7 @@ Before:
     }
   }
 ```
-After:
+**After:**
 ```
   static void reverseInPlace(int[] arr) {
     int[] tempArr = new int[arr.length];
