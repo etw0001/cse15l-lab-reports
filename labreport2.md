@@ -3,7 +3,7 @@
 
 **Part 1**
 
-* Below is the code for my StringServer web server:
+* Below is the code for my `StringServer`:
 
 ![image](https://user-images.githubusercontent.com/122562296/215363739-993e6d2a-2b3e-4aef-a5a7-61336adc0a97.png)
 
