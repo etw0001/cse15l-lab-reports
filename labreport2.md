@@ -78,4 +78,4 @@
 **Part 3**
 -
 
-* Something I learned from lab over the last 2 weeks was how to build a web server that takes in a URL as an input and displays text on a web page as an output. I also learned how to run the server both locally and remotely.
+**Something I learned from lab over the last 2 weeks was how to build a web server that takes in a URL as an input and displays text on a web page as an output. I also learned how to run the server both locally and remotely.**
