@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/122562296/215364860-5a4375f6-9400-468c-9a9a-33b45f7f781e.png)
 
 * In the second iteration of `/add-message` (shown above), the method `handleRequest` is called.
-* The argument passed into `handleRequest` is `url`, an object of type `URI`. `str` is the string in which the value after the equals sign in the URL (CSE15L) will be concatenated to in a new line. Due to this, str becomes a multiline string containing "Ethan" in the first line and "CSE15L" in the second.
+* The argument passed into `handleRequest` is `url`, an object of type `URI`. `str` is the string in which the value after the equals sign in the URL (CSE15L) will be concatenated to in a new line. Due to this, str becomes a multiline string, containing "Ethan" in the first line and "CSE15L" in the second.
 
 **Part 2**
 -
