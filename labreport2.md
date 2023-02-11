@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/122562296/215364827-fc7270fb-099d-4403-abd0-571e1153b0ea.png)
 
-* In the first iteration of `/add-message` (shown above), the method `handleRequest` is called. Since the URL contains "/add-message", `handleRequest` calls the `split` method. This splits the query string into an array and uses "=" to separate the parameters. After verifyiing that the first element of the array is "s", `handleRequest` appends the value after "=" to `str`.
+* In the first iteration of `/add-message` (shown above), the method `handleRequest` is called. Since the URL contains "/add-message", `handleRequest` calls `split`. This method splits the query string into an array, using "=" to separate the parameters. After verifying that the first element of the array equals "s", `handleRequest` appends the value of the query string after "=" to `str`.
 * The argument passed into `handleRequest` is `url`, an object of type `URI`. `str` is the string in which the value after the equals sign in the URL (Ethan) will be concatenated to in a new line.
 
 **Second iteration of `/add-message`:**
