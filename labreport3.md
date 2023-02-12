@@ -116,7 +116,7 @@ written_2/non-fiction/OUP/Castro/chO.txt
 -
 
 **Example 1**
-* The following command searches for and returns the file `Bahamas-Intro.txt`. This is useful for finding specific files/directories.
+* The following command searches for and returns the file `Bahamas-Intro.txt`. This is useful for finding specific files or directories.
 ```
 $ find written_2 -name "Bahamas-Intro.txt"
 ```
@@ -127,7 +127,7 @@ written_2/travel_guides/berlitz2/Bahamas-Intro.txt
 ```
 
 **Example 2**
-* The following command searches for and returns all files/directories containing the string `"Bahamas"`. This is useful for finding all files and directories that contain a certain string.
+* The following command searches for and returns all files and directories containing the string `"Bahamas"`. This is useful for finding all files and directories that contain a certain string.
 ```
 $ find written_2 -name "Bahamas*"
 ```
