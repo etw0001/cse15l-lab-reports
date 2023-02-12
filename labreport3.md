@@ -23,7 +23,7 @@ written_2/travel_guides/berlitz2/China-WhereToGo.txt
 **Example 2**
 * The following command searches for and returns files in `written_2/` that are greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
-$ find written_2/travel_guides -size +200k
+$ find written_2 -size +200k
 ```
 
 * Output:
