@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/122562296/215364860-5a4375f6-9400-468c-9a9a-33b45f7f781e.png)
 
-* In the second iteration of `/add-message` (shown above), the process described in the first iteration executes a second time.
+* In the second iteration of `/add-message` (shown above), the process described in the first iteration executes a second time, adding "CSE15L" to `str` on a new line.
 * As a result of this second iteration, `str` becomes a multiline string, containing "Ethan" in the first line and "CSE15L" in the second.
 
 **Part 2**
