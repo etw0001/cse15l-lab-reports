@@ -146,7 +146,7 @@ written_2/travel_guides/berlitz2/Bahamas-History.txt
 -
 
 **Example 1**
-* The following command
+* The following command searches for and returns all files and directories in `written_2/` but excludes the directory `written_2/travel_guides` from the search.
 ```
 $ find written_2 -not -path "written_2/travel_guides/*"
 ```
@@ -208,4 +208,15 @@ written_2/non-fiction/OUP/Castro/chN.txt
 written_2/non-fiction/OUP/Castro/chY.txt
 written_2/non-fiction/OUP/Castro/chO.txt
 written_2/travel_guides
+```
+
+**Example 2**
+* The following command searches for and returns all files and directories in `written_2/non-fiction/OUP/Rybczynski/` but excludes the file `ch1.txt` from the search.
+```
+$ find written_2/non-fiction/OUP/Rybczynski -not -name "ch1.txt"
+```
+
+* Output:
+```
+
 ```
