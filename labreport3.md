@@ -20,6 +20,8 @@ written_2/travel_guides/berlitz2/Portugal-WhereToGo.txt
 written_2/travel_guides/berlitz2/China-WhereToGo.txt
 ```
 
+**Source: https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size**
+
 **Example 2**
 * The following command searches for and returns all files in `written_2/` that are greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
@@ -32,8 +34,6 @@ written_2/travel_guides/berlitz1/WhereToItaly.txt
 written_2/travel_guides/berlitz1/WhereToFrance.txt
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 ```
-
-**Source: https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size**
 
 **Command 2: find -type**
 -
@@ -293,3 +293,11 @@ written_2/travel_guides/berlitz2/Bahamas-History.txt
 written_2/travel_guides/berlitz2/Beijing-WhatToDo.txt
 written_2/travel_guides/berlitz2/Cancun-WhereToGo.txt
 ```
+
+**Source: ChatGPT**
+
+**Command 3: find -**
+-
+
+**Example 1**
+* oki
