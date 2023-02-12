@@ -294,7 +294,7 @@ written_2/travel_guides/berlitz2/Beijing-WhatToDo.txt
 written_2/travel_guides/berlitz2/Cancun-WhereToGo.txt
 ```
 
-**Source: https://chat.openai.com/chat**
+**Source: ChatGPT**
 
 **Command 3: find -**
 -
