@@ -20,6 +20,8 @@ written_2/travel_guides/berlitz2/Portugal-WhereToGo.txt
 written_2/travel_guides/berlitz2/China-WhereToGo.txt
 ```
 
+**Source: https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size**
+
 **Example 2**
 * The following command searches for and returns files in `written_2/` that are greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
@@ -32,3 +34,9 @@ written_2/travel_guides/berlitz1/WhereToItaly.txt
 written_2/travel_guides/berlitz1/WhereToFrance.txt
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 ```
+
+**Command 2: find -size**
+-
+
+**Example 1**
+* The following command 
