@@ -6,7 +6,7 @@
 **Example 1**
 * Command:
 ```
-$ find written_2/travel_guides -size -1k
+$ find written_2 -size +100k -size -200k
 ```
 
 * Output:
