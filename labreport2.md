@@ -73,7 +73,7 @@
   }
 ```
 
-* The failure-inducing input would The fix adds a temporary array for the elements to be copied onto so that they can all be properly transferred.
+* The failure-inducing input would . By creating a temporary array, all of the elements from the original array can be properly transferred.
 
 **Part 3**
 -
