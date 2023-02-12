@@ -1,4 +1,4 @@
-# Lab Report 3: `find`
+# Lab Report 3
 
 **Command 1: find -size**
 -
