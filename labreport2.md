@@ -73,7 +73,7 @@
   }
 ```
 
-* In the failure-inducing input, the resulting array was mirrored rather than reversed. For example, calling `reverseInPlace` on an array containing the elements {1, 2, 3} would return {3, 2, 3} rather than {3, 2, 1}. This occurred because all the operations were performed on the same array, causing all elements on the left side of the array to be replaced by the elements on the right before the opposite could happen. To fix this bug, a second array was added to store the reversed elements, allowing all elements from the original array to be correctly reversed onto the second.
+* In the failure-inducing input, the resulting array was mirrored rather than reversed. For example, calling `reverseInPlace` on an array containing the elements {1, 2, 3} would return {3, 2, 3} rather than {3, 2, 1}. This occurred because all the operations were performed on the same array, causing all elements on the left side of the array to be replaced by the elements on the right before the opposite could happen. To fix this bug, a second array was created to store the reversed elements.
 
 **Part 3**
 -
