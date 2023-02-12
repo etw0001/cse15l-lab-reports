@@ -1,6 +1,6 @@
-# Lab Report 3
+# Lab Report 3: `find` commands
 
-**Command 1: find -size**
+**Command 1: `find` -size**
 -
 
 **Example 1**
@@ -35,7 +35,7 @@ written_2/travel_guides/berlitz1/WhereToFrance.txt
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 ```
 
-**Command 2: find -type**
+**Command 2: `find` -type**
 -
 
 **Example 1**
