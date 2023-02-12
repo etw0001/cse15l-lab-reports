@@ -39,7 +39,7 @@ written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 -
 
 **Example 1**
-* The following command searches for and returns all directories in `written_2/non-fiction/OUP`. This is useful when you only want information on a given path's directories and not the files inside them.
+* The following command searches for and returns all directories in `written_2/non-fiction/OUP`. This is useful when only searching for a given path's directories and not the files inside them.
 ```
 $ find written_2/non-fiction/OUP -type d
 ```
@@ -56,7 +56,7 @@ written_2/non-fiction/OUP/Castro
 ```
 
 **Example 2**
-* The following command searches for and returns all files in `written_2/non-fiction/OUP`. This is useful when you only want information on a given path's files and not its directories.
+* The following command searches for and returns all files in `written_2/non-fiction/OUP`. This is useful when only searching for a given path's files and not its directories.
 ```
 $ find written_2/non-fiction/OUP -type f
 ```
