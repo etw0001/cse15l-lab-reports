@@ -4,7 +4,7 @@
 -
 
 **Example 1**
-* The following command searches for and returns files greater than 100 kilobytes but less than 200 kilobytes.
+* The following command searches for and returns files greater than 100 kilobytes but less than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
 $ find written_2 -size +100k -size -200k
 ```
@@ -21,7 +21,7 @@ written_2/travel_guides/berlitz2/China-WhereToGo.txt
 ```
 
 **Example 2**
-* The following command searches for and returns files greater than 200 kilobytes.
+* The following command searches for and returns files greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
 $ find written_2/travel_guides -size +200k
 ```
