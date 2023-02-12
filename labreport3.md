@@ -33,7 +33,7 @@ written_2/travel_guides/berlitz1/WhereToFrance.txt
 written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 ```
 
-**Source: https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size**
+**Source: [](https://linuxconfig.org/how-to-use-find-command-to-search-for-files-based-on-file-size)**
 
 **Command 2: find -type**
 -
