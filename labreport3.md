@@ -4,3 +4,6 @@
 -
 
 **Example 1**
+```
+find written_2 -size +200k
+```
