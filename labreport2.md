@@ -73,7 +73,7 @@
   }
 ```
 
-* The failure-inducing input would . By creating a temporary array, all of the elements from the original array can be properly transferred.
+* In the failure-inducing input, the resulting array was mirrored rather than reversed. For example, a {1, 2, 3} array would return {3, 2, 3} rather than {3, 2, 1} after invoking the `reverseInPlace` method. This happened because all of the operations were performed on the same array, therefore causing all the elements on the left side of the array to be replaced by the elements on the right side before the opposite could happen. To fix this bug, a temporary array was added, allowing all the elements from the original array to be properly reversed.
 
 **Part 3**
 -
