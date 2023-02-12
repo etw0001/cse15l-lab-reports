@@ -110,7 +110,7 @@ written_2/non-fiction/OUP/Castro/chY.txt
 written_2/non-fiction/OUP/Castro/chO.txt
 ```
 
-**Source: https://www.redhat.com/sysadmin/linux-find-command**
+**Source: [https://www.redhat.com/sysadmin/linux-find-command](https://www.redhat.com/sysadmin/linux-find-command)**
 
 **Command 3: find -name**
 -
@@ -140,7 +140,7 @@ written_2/travel_guides/berlitz2/Bahamas-WhatToDo.txt
 written_2/travel_guides/berlitz2/Bahamas-History.txt
 ```
 
-**Source: https://geekflare.com/linux-find-commands/**
+**Source: [https://geekflare.com/linux-find-commands/](https://geekflare.com/linux-find-commands/)**
 
 **Command 4: find -not**
 -
@@ -223,4 +223,4 @@ written_2/non-fiction/OUP/Rybczynski/ch2.txt
 written_2/non-fiction/OUP/Rybczynski/ch3.txt
 ```
 
-**Sources: https://chat.openai.com/chat**
+**Sources: [https://chat.openai.com/chat](https://chat.openai.com/chat)**
