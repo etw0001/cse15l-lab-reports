@@ -4,7 +4,7 @@
 -
 
 **Example 1**
-* The following command searches for and returns all files in the path `written_2/` that are greater than 100 kilobytes but less than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
+* The following command searches for and returns all files in `written_2` that are greater than 100 kilobytes but less than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
 $ find written_2 -size +100k -size -200k
 ```
@@ -21,7 +21,7 @@ written_2/travel_guides/berlitz2/China-WhereToGo.txt
 ```
 
 **Example 2**
-* The following command searches for and returns all files in the path `written_2/` that are greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
+* The following command searches for and returns all files in `written_2` that are greater than 200 kilobytes. This is useful for finding files that meet a certain size criteria.
 ```
 $ find written_2 -size +200k
 ```
@@ -39,7 +39,7 @@ written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
 -
 
 **Example 1**
-* The following command searches for and returns all directories in the path `written_2/non-fiction/OUP`. This is useful when searching for a given path's directories but not the files inside them.
+* The following command searches for and returns all directories in `written_2/non-fiction/OUP`. This is useful when searching for a given path's directories but not the files inside them.
 ```
 $ find written_2/non-fiction/OUP -type d
 ```
@@ -56,7 +56,7 @@ written_2/non-fiction/OUP/Castro
 ```
 
 **Example 2**
-* The following command searches for and returns all files in the path `written_2/non-fiction/OUP`. This is useful when searching for a given path's files but not its directories.
+* The following command searches for and returns all files in `written_2/non-fiction/OUP`. This is useful when searching for a given path's files but not its directories.
 ```
 $ find written_2/non-fiction/OUP -type f
 ```
@@ -146,7 +146,7 @@ written_2/travel_guides/berlitz2/Bahamas-History.txt
 -
 
 **Example 1**
-* The following command searches for and returns all files and directories in the path `written_2/` but excludes the directory `written_2/travel_guides` from the search.
+* The following command searches for and returns all files and directories in `written_2` but excludes the directory `written_2/travel_guides` from the search.
 ```
 $ find written_2 -not -path "written_2/travel_guides/*"
 ```
@@ -211,7 +211,7 @@ written_2/travel_guides
 ```
 
 **Example 2**
-* The following command searches for and returns all files and directories in the path `written_2/non-fiction/OUP/Rybczynski/` but excludes the file `ch1.txt` from the search.
+* The following command searches for and returns all files and directories in `written_2/non-fiction/OUP/Rybczynski` but excludes the file `ch1.txt` from the search.
 ```
 $ find written_2/non-fiction/OUP/Rybczynski -not -name "ch1.txt"
 ```
