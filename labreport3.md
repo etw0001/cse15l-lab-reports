@@ -211,12 +211,16 @@ written_2/travel_guides
 ```
 
 **Example 2**
-* The following command searches for and returns all files and directories in `written_2/non-fiction/OUP/Rybczynski/` but excludes the file `ch1.txt` from the search.
+* The following command searches for and returns all files and directories in the path `written_2/non-fiction/OUP/Rybczynski/` but excludes the file `ch1.txt` from the search.
 ```
 $ find written_2/non-fiction/OUP/Rybczynski -not -name "ch1.txt"
 ```
 
 * Output:
 ```
-
+written_2/non-fiction/OUP/Rybczynski
+written_2/non-fiction/OUP/Rybczynski/ch2.txt
+written_2/non-fiction/OUP/Rybczynski/ch3.txt
 ```
+
+**Sources: https://chat.openai.com/chat**
