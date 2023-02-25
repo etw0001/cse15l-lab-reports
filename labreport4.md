@@ -22,5 +22,4 @@
 `ctrl-R` `*` `<enter>`
 
 `ctrl-R` `List` `<enter>`
-
-* h
+* I ran the first command to change my current working directory to the `lab7` directory.
