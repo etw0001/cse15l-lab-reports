@@ -39,3 +39,9 @@
 
 `<^O> <enter> <^X>`
 * I pressed `<^O> <enter>` to save the file to `ListExamples.java` then pressed `<^X>` to exit.
+
+**Running the tests and demonstrating that they now succeed**
+-
+**Keys pressed:**
+
+`
