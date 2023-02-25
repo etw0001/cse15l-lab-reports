@@ -55,10 +55,10 @@
 **Keys pressed:**
 
 `git add L <tab> .j <tab>`
-* I accessed the command `git add ListExamples.java` quicker by using `<tab>` to autofill parts of my command twice.
+* I accessed the command `git add ListExamples.java` quicker by using `<tab>` to autofill parts of my command twice. This command is used to stage changes for the next commit.
 
 `git commit -m "updated"`
-* Commit.
+* This command creates a new commit that includes those changes.
 
 `git push`
-* Push.
+* This command pushes the changes made on my local repository to my GitHub repository.
