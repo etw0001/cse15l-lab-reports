@@ -49,3 +49,9 @@
 
 `<^R> List <enter>`
 * I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
+
+**Committing and pushing the resulting change to my GitHub account**
+-
+**Keys pressed:**
+
+`git add L <tab> .j <tab>`
