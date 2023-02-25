@@ -57,8 +57,8 @@
 `git add L <tab> .j <tab>`
 * I accessed the command `git add ListExamples.java` quicker by using `<tab>` to autofill parts of my command twice.
 
-`git commit -m ""`
-* Commit with an empty message.
+`git commit -m "updated"`
+* Commit.
 
 `git push`
 * Push.
