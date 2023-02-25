@@ -22,4 +22,5 @@
 `ctrl-R` `*` `<enter>`
 
 `ctrl-R` `List` `<enter>`
-* 
+
+* h
