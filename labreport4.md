@@ -4,14 +4,14 @@
 -
 **Keys pressed:**
 
-`<ctrl-R>` `ssh` `<enter>`
+`<ctrl-R> ssh <enter>`
 * I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<ctrl-R>` to search for a command containing "ssh" in my command history, then pressed `<enter>` to run it.
 
 **Cloning my fork of the repository from my GitHub account**
 -
 **Keys pressed:**
 
-`<ctrl-R>` `clone` `<enter>`
+`<ctrl-R> clone <enter>`
 * I accessed the command `git clone git@github.com:etw0001/lab7.git` using `<ctrl-R>` to search for a command containing "clone" in my command history, then pressed `<enter>` to run it.
 
 **Running the tests and demonstrating that they fail**
@@ -21,18 +21,18 @@
 `cd lab7`
 * I first used `cd` to set my current working directory to `lab7`.
 
-`<ctrl-R>` `*` `<enter>`
+`<ctrl-R> * <enter>`
 * I then accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
 
-`<ctrl-R>` `List` `<enter>`
+`<ctrl-R> List <enter>`
 * Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
 
 **Editing the code file to fix the failing test**
 -
 **Keys pressed:**
 
-`<ctrl-R>` `nano` `<enter>`
+`<ctrl-R> nano <enter>`
 * I first accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
 
-`<right>``<right>`
+`<right><right><right><right><right><right><right><right><right><right><right><right>`
 * I then used the scroll wheel to get the cursor down to the 43rd line
