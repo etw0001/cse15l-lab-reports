@@ -34,7 +34,7 @@
 `<^R> nano <enter>`
 * I accessed the command `nano ListExamples.java` using `<^R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
 
-`<right><right><right><right><right><right><right><right><right><right><right><right><delete> 2`
+`<right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <delete> 2`
 * I used the scroll wheel to move the cursor from the 1st line of the code file to the 43rd line, pressed `<right>` 12 times to move the cursor rightward to the location where I wanted to make changes, then pressed `<delete> 2` to change `index1` to `index2`.
 
 `<^O> <enter> <^X>`
