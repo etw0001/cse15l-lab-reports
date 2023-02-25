@@ -12,7 +12,5 @@ Keys pressed: `ctrl-R>` `clone` `<enter>`
 
 **Running the tests and demonstrating that they fail**
 -
-Keys pressed: `cd lab7`
-* `ctrl-R` `*` `<enter>`
-* `ctrl-R` `List` `<enter>`
+Keys pressed: `cd lab7` + `ctrl-R` `*` `<enter>` + `ctrl-R` `List` `<enter>`
 * 
