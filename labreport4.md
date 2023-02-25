@@ -22,13 +22,14 @@
 * I first used `cd` to set my current working directory to `lab7`.
 
 `<ctrl-R>` `*` `<enter>`
-* I then accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history.
+* I then accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
 
 `<ctrl-R>` `List` `<enter>`
-* Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history.
+* Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
 
 **Editing the code file to fix the failing test**
 -
 **Keys pressed:**
 
-`nano` `L` `<tab>` `.j` `<tab>`
+`<ctrl-R>` `nano` `<enter>`
+* I accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
