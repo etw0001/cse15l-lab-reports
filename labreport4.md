@@ -38,4 +38,4 @@
 * I used the scroll wheel to move the cursor from the 1st line of the code file to the 43rd line, pressed `<right>` 12 times to move the cursor rightward to the location where I wanted to make changes, then pressed `<delete> 2` to change `index1` to `index2`.
 
 `<^O> <enter> <^X>`
-* I pressed `<^O> <enter>` to save the file and `<^X>` to exit.
+* I pressed `<^O> <enter>` to save the file to `ListExamples.java` then pressed `<^X>` to exit.
