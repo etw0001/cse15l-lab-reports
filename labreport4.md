@@ -1,4 +1,4 @@
 # Lab Report 4
 
 **Logging into ieng6**
-* Keys pressed: `<Ctrl-R>` `ssh`
+* Keys pressed: `<ctrl-R>` `ssh` `<enter>`
