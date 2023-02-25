@@ -19,7 +19,7 @@
 **Keys pressed:**
 
 `cd lab7`
-* I first used `cd` to set my current working directory to `lab7`.
+* I used `cd` to set my current working directory to `lab7`.
 
 `<^R> * <enter>`
 * I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
@@ -44,4 +44,8 @@
 -
 **Keys pressed:**
 
-`
+`<^R> * <enter>`
+* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
+
+`<^R> List <enter>`
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
