@@ -19,7 +19,9 @@
 
 `cd lab7`
 * I used `cd` to set my current working directory to the `lab7`.
+
 `ctrl-R` `*` `<enter>`
 * I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `*` to search for a command containing "*" in my command history.
+
 `ctrl-R` `List` `<enter>`
 *
