@@ -32,4 +32,7 @@
 **Keys pressed:**
 
 `<ctrl-R>` `nano` `<enter>`
-* I accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
+* I first accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
+
+`<right>``<right>`
+* I then used the scroll wheel to get the cursor down to the 43rd line
