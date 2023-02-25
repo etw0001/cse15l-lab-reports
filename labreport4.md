@@ -55,3 +55,10 @@
 **Keys pressed:**
 
 `git add L <tab> .j <tab>`
+* 1
+
+`git commit -m ""`
+* 2
+
+`git push`
+* 3
