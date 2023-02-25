@@ -16,7 +16,6 @@
 **Running the tests and demonstrating that they fail**
 -
 **Keys pressed:**
-
 `cd lab7`
 * I first used `cd` to set my current working directory to `lab7`.
 
@@ -25,3 +24,7 @@
 
 `ctrl-R` `List` `<enter>`
 * Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history.
+
+**Editing the code file to fix the failing test**
+-
+**Keys pressed:**
