@@ -5,7 +5,7 @@
 **Keys pressed:**
 
 `<^R> ssh <enter>`
-* I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<^R>` to search for a command containing "ssh" in my command history, then pressed `<enter>` to run it. This command connected me to the `ieng6` server.
+* I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<^R>` to search for a command containing "ssh" in my command history, then pressed `<enter>` to run it. This command connected me to the `ieng6` remote server.
 
 **Cloning my fork of the repository from my GitHub account**
 -
