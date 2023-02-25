@@ -22,17 +22,17 @@
 * I first used `cd` to set my current working directory to `lab7`.
 
 `<ctrl-R> * <enter>`
-* I then accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
+* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it.
 
 `<ctrl-R> List <enter>`
-* Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it.
 
 **Editing the code file to fix the failing test**
 -
 **Keys pressed:**
 
 `<ctrl-R> nano <enter>`
-* I first accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
+* I accessed the command `nano ListExamples.java` using `<ctrl-R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it.
 
 `<right><right><right><right><right><right><right><right><right><right><right><right><delete> 2`
-* I then used the scroll wheel to move the cursor from the 1st line to the 43rd line, pressed `<right>` 12 times to move the cursor to the location where I wanted to edit the code file, pressing `delete`, then `2`, to change `index1` to `index2`.
+* I used the scroll wheel to move the cursor from the 1st line of the code file to the 43rd line, pressed `<right>` 12 times to move the cursor rightward to the location where I wanted to make changes, then pressed `<delete> 2` to change `index1` to `index2`.
