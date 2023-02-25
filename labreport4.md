@@ -11,7 +11,7 @@
 -
 **Keys pressed:**
 
-`ctrl-R>` `clone` `<enter>`
+`<ctrl-R>` `clone` `<enter>`
 * I accessed the command `git clone git@github.com:etw0001/lab7.git` using `<ctrl-R>` to search for a command containing "clone" in my command history, then pressed `<enter>` to run it.
 
 **Running the tests and demonstrating that they fail**
@@ -21,12 +21,14 @@
 `cd lab7`
 * I first used `cd` to set my current working directory to `lab7`.
 
-`ctrl-R` `*` `<enter>`
+`<ctrl-R>` `*` `<enter>`
 * I then accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<ctrl-R>` to search for a command containing "*" in my command history.
 
-`ctrl-R` `List` `<enter>`
+`<ctrl-R>` `List` `<enter>`
 * Lastly, I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `ctrl-R>` to search for a command containing "List" in my command history.
 
 **Editing the code file to fix the failing test**
 -
 **Keys pressed:**
+
+`nano` `L` `<tab>` `.j` `<tab>`
