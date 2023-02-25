@@ -17,5 +17,5 @@
 **Keys pressed:**
 `cd lab7`
 `ctrl-R` `*` `<enter>`
-`ctrl-R` `List` `<enter>
+`ctrl-R` `List` `<enter>`
 * 
