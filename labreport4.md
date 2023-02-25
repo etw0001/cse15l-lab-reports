@@ -22,4 +22,4 @@
 `ctrl-R` `*` `<enter>`
 
 `ctrl-R` `List` `<enter>`
-* I ran the first command to change my current working directory to the `lab7` directory.
+* I ran the first command to set my current working directory to the `lab7` directory. Then, I 
