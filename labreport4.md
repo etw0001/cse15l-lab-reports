@@ -63,6 +63,6 @@
 `git push`
 * This command pushed the changes I made on my local repository to my GitHub repository.
 
-**Sources used:**
+**Sources used**
 -
 **ChatGPT**
