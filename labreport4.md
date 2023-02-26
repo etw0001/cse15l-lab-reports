@@ -66,7 +66,7 @@
 **Keys pressed:**
 
 `git add L <tab> .j <tab>`
-* I accessed the command `git add ListExamples.java` quicker by using `<tab>` twice to autofill the `ListExamples.java` part. This staged the changes for the next commit.
+* I accessed the command `git add ListExamples.java` quicker by using `<tab>` twice to autofill the `ListExamples.java` part of it. This staged the changes for the next commit.
 
 `git commit -m "updated"`
 * This created a new commit that included those changes.
