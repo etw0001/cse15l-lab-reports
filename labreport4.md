@@ -3,7 +3,7 @@
 **Logging into ieng6**
 -
 
-![image](https://user-images.githubusercontent.com/122562296/221392287-41feda18-ecf0-4ddb-84c3-6a4ba1b24ec2.png)
+![image](https://user-images.githubusercontent.com/122562296/221392330-c0ed0fe8-906d-463e-80e2-ef0335886ab1.png)
 
 **Keys pressed:**
 
