@@ -28,8 +28,8 @@
 `<^R> * <enter>`
 * I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it. This compiled the testers.
 
-`<^R> List <enter>`
-* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it. This ran the testers.
+`<^R> ListExamplesTests <enter>`
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "ListExamplesTests" in my command history, then pressed `<enter>` to run it. This ran the testers.
 
 ![image](https://user-images.githubusercontent.com/122562296/221392537-6af07d18-4bb9-4775-9a6b-feadf461daf2.png)
 
