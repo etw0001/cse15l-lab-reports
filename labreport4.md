@@ -16,6 +16,8 @@
 `<^R> clone <enter>`
 * I accessed the command `git clone git@github.com:etw0001/lab7.git` using `<^R>` to search for a command containing "clone" in my command history, then pressed `<enter>` to run it. This cloned my fork of the `lab7` repository from my GitHub account.
 
+![image](https://user-images.githubusercontent.com/122562296/221392428-1e99280f-ce9b-4401-924c-956b89fd47d7.png)
+
 **Running the tests and demonstrating that they fail**
 -
 **Keys pressed:**
