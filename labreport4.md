@@ -69,7 +69,7 @@
 * I accessed the command `git add ListExamples.java` quicker by using `<tab>` twice to autofill the `ListExamples.java` part of it. This staged the changes for the next commit.
 
 `git commit -m "updated"`
-* This created a new commit that included those changes, adding an "updated" message.
+* This created a new commit with an "updated" message that included those changes.
 
 `git push`
 * This pushed the changes I made on my local repository to my GitHub repository.
