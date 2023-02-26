@@ -74,6 +74,8 @@
 `git push`
 * This pushed the changes I made on my local repository to my GitHub repository.
 
+![image](https://user-images.githubusercontent.com/122562296/221392874-70c62457-bd7e-444e-a1cc-f94fb7c527f3.png)
+
 **Sources used**
 -
 **ChatGPT**
