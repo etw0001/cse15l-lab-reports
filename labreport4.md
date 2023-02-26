@@ -2,13 +2,12 @@
 
 **Logging into ieng6**
 -
-
-![image](https://user-images.githubusercontent.com/122562296/221392330-c0ed0fe8-906d-463e-80e2-ef0335886ab1.png)
-
 **Keys pressed:**
 
 `<^R> ssh <enter>`
 * I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<^R>` to search for a command containing "ssh" in my command history, then pressed `<enter>` to run it. This connected me to the `ieng6` remote server.
+
+![image](https://user-images.githubusercontent.com/122562296/221392330-c0ed0fe8-906d-463e-80e2-ef0335886ab1.png)
 
 **Cloning my fork of the repository from my GitHub account**
 -
