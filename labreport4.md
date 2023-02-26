@@ -56,8 +56,10 @@
 `<^R> * <enter>`
 * I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it. This recompiled the testers.
 
-`<^R> List <enter>`
-* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "List" in my command history, then pressed `<enter>` to run it. This reran the testers.
+`<^R> ListExamplesTests <enter>`
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "ListExamplesTests" in my command history, then pressed `<enter>` to run it. This reran the testers.
+
+![image](https://user-images.githubusercontent.com/122562296/221392767-16d53053-a2b8-4109-b7b2-fb6c42f98dad.png)
 
 **Committing and pushing the resulting change to my GitHub account**
 -
