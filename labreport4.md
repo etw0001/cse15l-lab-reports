@@ -3,7 +3,7 @@
 **Logging into ieng6**
 -
 
-![image](<img width="502" alt="Screenshot 2023-02-25 at 8 23 58 PM" src="https://user-images.githubusercontent.com/122562296/221392287-41feda18-ecf0-4ddb-84c3-6a4ba1b24ec2.png">)
+![image](https://user-images.githubusercontent.com/122562296/221392287-41feda18-ecf0-4ddb-84c3-6a4ba1b24ec2.png)
 
 **Keys pressed:**
 
