@@ -46,6 +46,8 @@
 `<^O> <enter> <^X>`
 * I pressed `<^O> <enter>` to save/overwrite `ListExamples.java` then pressed `<^X>` to exit the editor.
 
+![image](https://user-images.githubusercontent.com/122562296/221392609-95e30efc-9d8e-4c93-a0aa-2512fc7c1d90.png)
+
 **Running the tests and demonstrating that they now succeed**
 -
 **Keys pressed:**
