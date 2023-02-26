@@ -5,7 +5,7 @@
 **Keys pressed:**
 
 `<^R> ssh <enter>`
-* I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<^R>` to search for a command containing "ssh" in my command history, then pressed `<enter>` to run it. This connected me to the `ieng6` remote server.
+* I accessed the command `ssh cs15lwi23agb@ieng6.ucsd.edu` using `<^R>` to search for a command containing `"ssh"` in my command history, then pressed `<enter>` to run it. This connected me to the `ieng6` remote server.
 
 ![image](https://user-images.githubusercontent.com/122562296/221392330-c0ed0fe8-906d-463e-80e2-ef0335886ab1.png)
 
@@ -14,7 +14,7 @@
 **Keys pressed:**
 
 `<^R> clone <enter>`
-* I accessed the command `git clone git@github.com:etw0001/lab7.git` using `<^R>` to search for a command containing "clone" in my command history, then pressed `<enter>` to run it. This cloned my fork of the `lab7` repository from my GitHub account.
+* I accessed the command `git clone git@github.com:etw0001/lab7.git` using `<^R>` to search for a command containing `"clone"` in my command history, then pressed `<enter>` to run it. This cloned my fork of the `lab7` repository from my GitHub account.
 
 ![image](https://user-images.githubusercontent.com/122562296/221392428-1e99280f-ce9b-4401-924c-956b89fd47d7.png)
 
@@ -26,10 +26,10 @@
 * I used `cd` to set my current working directory to `lab7`.
 
 `<^R> * <enter>`
-* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it. This compiled the testers.
+* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing `"*"` in my command history, then pressed `<enter>` to run it. This compiled the testers.
 
 `<^R> ListExamplesTests <enter>`
-* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "ListExamplesTests" in my command history, then pressed `<enter>` to run it. This ran the testers.
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing `"ListExamplesTests"` in my command history, then pressed `<enter>` to run it. This ran the testers.
 
 ![image](https://user-images.githubusercontent.com/122562296/221392537-6af07d18-4bb9-4775-9a6b-feadf461daf2.png)
 
@@ -38,7 +38,7 @@
 **Keys pressed:**
 
 `<^R> nano <enter>`
-* I accessed the command `nano ListExamples.java` using `<^R>` to search for a command containing "nano" in my command history, then pressed `<enter>` to run it. This opened the `nano` editor and loaded the contents of `ListExamples.java`.
+* I accessed the command `nano ListExamples.java` using `<^R>` to search for a command containing `"nano"` in my command history, then pressed `<enter>` to run it. This opened the `nano` editor and loaded the contents of `ListExamples.java`.
 
 `<right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <right> <delete> 2`
 * I used the scroll wheel to move the cursor from the 1st line of the code file to the 43rd line, pressed `<right>` 12 times to move the cursor rightward to the location where I wanted to make changes, then pressed `<delete>`, followed by `2`, to change `index1` to `index2`.
@@ -54,10 +54,10 @@
 **Keys pressed:**
 
 `<^R> * <enter>`
-* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing "*" in my command history, then pressed `<enter>` to run it. This recompiled the testers.
+* I accessed the command `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` using `<^R>` to search for a command containing `"*"` in my command history, then pressed `<enter>` to run it. This recompiled the testers.
 
 `<^R> ListExamplesTests <enter>`
-* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing "ListExamplesTests" in my command history, then pressed `<enter>` to run it. This reran the testers.
+* I accessed the command `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` using `<^R>` to search for a command containing `"ListExamplesTests"` in my command history, then pressed `<enter>` to run it. This reran the testers.
 
 ![image](https://user-images.githubusercontent.com/122562296/221392767-16d53053-a2b8-4109-b7b2-fb6c42f98dad.png)
 
