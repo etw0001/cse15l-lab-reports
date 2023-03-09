@@ -8,7 +8,7 @@
 
 * Line 1: Creates the `CPATH` variable containing the command compiling JUnit.
 * Line 3: Deletes the `student-submission` directory.
-* Lines 3-4: Clones the Git repository specified by the first argument into a new `student-submission` directory.
+* Lines 4: Clones the Git repository specified by the first argument into a new `student-submission` directory.
 * Line 5: Prints the message `Finished cloning`.
 * Line 7: Changes the current working directory to `student-submission`.
 * Lines 8-10, 40-41: Checks if the file `ListExamples.java` exists in the current directory. If it doesn't, prints out the error message `ListExamples.java not found` and exits. If it does, copies `TestListExamples.java` to the `student-submission` directory.
