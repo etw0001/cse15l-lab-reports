@@ -16,3 +16,5 @@
 * Line 27: Runs the `TestListExamples` tester file and redirects the output to the file `testResults.txt`.
 * Lines 29-36: Checks the exit status of the command run in Line 27. If the exit status is `0`, prints the message `All tests have passed`. If the exit status is not `0`, prints out the test results from `testResults.txt` and the error message `One or more tests failed`.
 * Line 42-43: Ends the nested if statement and exits the script.
+
+I tested this script on the test repositories provided in the Week 6 Lab Instructions.
