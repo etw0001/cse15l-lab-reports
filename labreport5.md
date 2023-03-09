@@ -29,7 +29,7 @@
 ![image](https://user-images.githubusercontent.com/122562296/224137622-41f5f2b9-e2e6-4357-bbb0-9cdd9eff207f.png)
 
 * https://github.com/ucsd-cse15l-f22/list-methods-compile-error
-* 
+
 ![image](https://user-images.githubusercontent.com/122562296/224137743-5a4436a0-5ffc-4d02-9e42-ce66483112e4.png)
 
 * https://github.com/ucsd-cse15l-f22/list-methods-signature
