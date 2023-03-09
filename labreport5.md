@@ -4,4 +4,6 @@
 -
 
 **Steps**
-* 1. 
+
+* Created CPATH variable containing the command compiling the JUnit Tester
+* 
