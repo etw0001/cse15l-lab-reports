@@ -1,6 +1,6 @@
 # Lab Report 5
 
-**Lab 6 Grading Script**
+**Grading Script**
 -
 ![image](https://user-images.githubusercontent.com/122562296/224134453-4e86180c-89c3-45f5-81b5-50a0b6c0d26d.png)
 
