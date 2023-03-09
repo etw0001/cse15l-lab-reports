@@ -2,7 +2,7 @@
 
 **Lab 6 Grading Script**
 -
-![image](https://user-images.githubusercontent.com/122562296/224134453-4e86180c-89c3-45f5-81b5-50a0b6c0d26d.png)
+![image](https://user-images.githubusercontent.com/122562296/224136775-6c70c990-b73c-493e-9b59-a4c6c9e035a0.png)
 
 **Steps**
 
@@ -17,4 +17,18 @@
 * Lines 29-36: Checks the exit status of the command run in Line 27. If the exit status is `0`, prints the message `All tests have passed`. If the exit status is not `0`, prints out the test results from `testResults.txt` and the error message `One or more tests failed`.
 * Line 42-43: Ends the nested if statement and exits the script.
 
-I tested this script on the test repositories provided in the Week 6 Lab Instructions.
+**Tested Repositories**
+
+* https://github.com/ucsd-cse15l-f22/list-methods-lab3
+
+![image](https://user-images.githubusercontent.com/122562296/224135746-47058b5a-27c9-4f8f-9ca7-9431a1a9db61.png)
+
+* https://github.com/ucsd-cse15l-f22/list-methods-corrected
+
+
+
+* https://github.com/ucsd-cse15l-f22/list-methods-compile-error
+* https://github.com/ucsd-cse15l-f22/list-methods-signature
+* https://github.com/ucsd-cse15l-f22/list-methods-filename
+* https://github.com/ucsd-cse15l-f22/list-methods-nested
+* https://github.com/ucsd-cse15l-f22/list-examples-subtle
