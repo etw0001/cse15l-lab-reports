@@ -2,9 +2,9 @@
 
 **Lab 6 Grading Script**
 -
+![image](https://user-images.githubusercontent.com/122562296/224134453-4e86180c-89c3-45f5-81b5-50a0b6c0d26d.png)
 
 **Steps**
-![image](https://user-images.githubusercontent.com/122562296/224134453-4e86180c-89c3-45f5-81b5-50a0b6c0d26d.png)
 
 * Line 1: Creates the `CPATH` variable containing the command compiling JUnit.
 * Line 2: Deletes the `student-submission` directory.
