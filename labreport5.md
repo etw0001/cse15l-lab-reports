@@ -7,7 +7,7 @@
 **Steps**
 
 * Line 1: Creates the `CPATH` variable containing the command compiling JUnit.
-* Line 2: Deletes the `student-submission` directory.
+* Line 3: Deletes the `student-submission` directory.
 * Lines 3-4: Clones the Git repository specified by the first argument into a new `student-submission` directory.
 * Line 5: Prints the message `Finished cloning`.
 * Line 7: Changes the current working directory to `student-submission`.
