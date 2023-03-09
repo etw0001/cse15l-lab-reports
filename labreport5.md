@@ -3,4 +3,5 @@
 **Lab 6 Grading Script**
 -
 
-For this grading script, 
+**Steps**
+* 1. 
