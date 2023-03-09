@@ -47,3 +47,7 @@
 * https://github.com/ucsd-cse15l-f22/list-examples-subtle
 
 ![image](https://user-images.githubusercontent.com/122562296/224138258-f2f99e90-9a74-43ef-8ee7-b8e6ebaea98d.png)
+
+**Sources Used**
+Allen Yan (Lab Partner), ChatGPT
+
